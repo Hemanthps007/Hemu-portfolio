@@ -1,0 +1,17 @@
+{
+  "name": "Hemanth P S",
+  "tagline": "Computer Science Engineering student (7th semester, CIT, VTU) with hands-on experience across three web-development internships and multiple national-level hackathons.",
+  "photo": "/placeholder-profile.jpg",
+  "about": {
+    "headline": "Full-stack Developer passionate about building scalable, user-centric applications.",
+    "paragraphs": [
+      "I am a 7th semester CSE student with strong hands-on exposure to frontend, backend, and cloud-native technologies gained through multiple internships and hackathons.",
+      "I enjoy turning complex business problems into clean, scalable, and production-ready software solutions."
+    ],
+    "highlights": [
+      "Full-stack web development",
+      "REST APIs and scalable systems"
+    ],
+    "goal": "I want to work on projects that matter, solve real-world problems, and allow me to grow as an engineer and innovator."
+  }
+}

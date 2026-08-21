@@ -1,0 +1,21 @@
+{
+  "title": "Your Name - SDE Portfolio",
+  "description": "Software Development Engineer portfolio showing selected work, experiences, certifications and skills.",
+  "copyright": "© 2026 Your Name. All rights reserved.",
+  "nav": [
+    { "label": "About", "href": "/#about" },
+    { "label": "Education", "href": "/#education" },
+    { "label": "Experience", "href": "/#experience" },
+    { "label": "Skills", "href": "/#skills" },
+    { "label": "Tools", "href": "/tools" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Achievements", "href": "/achievements" },
+    { "label": "Certifications", "href": "/certifications" },
+    { "label": "Contact", "href": "/#contact" }
+  ],
+  "theme": {
+    "primary": "#8b5cf6",
+    "secondary": "#06b6d4",
+    "background": "#0a0a0f"
+  }
+}

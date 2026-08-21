@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Full stack developer ",
+    "location": "Coginfyz Technology",
+    "period": "Jan 28 2026 — Feb 28 2026",
+    "mode": "Internship",
+    "bullets": [
+      "Designed and developed scalable frontend and backend solutions for business-critical products.",
+      "Improved system performance and maintainability through code refactoring, testing, and API improvements.",
+      "Worked with product and design teams to ship user-focused features efficiently."
+    ]
+  },
+  {
+    "title": "Web Developer Intern",
+    "location": "SkillCraft Technology",
+    "period": "Nov 1 2025 — Nov 30 2025",
+    "mode": "Internship",
+    "bullets": [
+      "Built internal tools and dashboards to simplify daily workflows and operational reporting.",
+      "Collaborated with engineers to solve bugs and improve deployment quality.",
+      "Learned modern app development practices, version control, and agile delivery."
+    ]
+  },
+  {
+    "title": "Full stack developer ",
+    "location": "InAmigos Foundation",
+    "period": "May 25 2026 — May 25 2026",
+    "mode": "Internship",
+    "bullets": [
+      "Built multiple web applications and prototypes for personal and practical use cases.",
+      "Applied UI design, state management, API integration, and database concepts in projects.",
+      "Focused on building polished user experiences with maintainable code."
+    ]
+  }
+]

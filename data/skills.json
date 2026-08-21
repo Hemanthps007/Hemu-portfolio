@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Languages",
+    "items": "JavaScript, TypeScript, Java, Python, C++"
+  },
+  {
+    "category": "Frontend",
+    "items": "React, Next.js, HTML5, CSS3, Tailwind"
+  },
+  {
+    "category": "Backend",
+    "items": "Node.js, Express, Spring Boot, REST APIs, Authentication"
+  },
+  {
+    "category": "Data & Cloud",
+    "items": "PostgreSQL, MongoDB, MySQL, AWS, Docker, Git"
+  }
+]

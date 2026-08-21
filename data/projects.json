@@ -1,0 +1,43 @@
+[
+  {
+    "title": "E-Commerce Platform",
+    "description": "A full-stack web application for managing products, orders, and user accounts with a responsive storefront and dashboard.",
+    "projectLink": "https://github.com",
+    "websiteLink": "https://example.com",
+    "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+    "status": "Completed",
+    "stage": "Production",
+    "progress": 100,
+    "category": "Full-Stack",
+    "impact": "Production platform with Stripe billing",
+    "team": "Individual Project",
+    "icon": "🛒"
+  },
+  {
+    "title": "Task Management System",
+    "description": "A productivity platform for team collaboration with task tracking, filters, and analytics for progress visibility.",
+    "projectLink": "https://github.com",
+    "technologies": ["Java", "Spring Boot", "MySQL", "REST API"],
+    "status": "Completed",
+    "stage": "MVP",
+    "progress": 100,
+    "category": "Backend",
+    "impact": "Enterprise grade REST APIs",
+    "team": "Individual Project",
+    "icon": "📝"
+  },
+  {
+    "title": "Real-Time Chat App",
+    "description": "A messaging platform with live updates, user presence, and structured conversation views for collaborative communication.",
+    "projectLink": "https://github.com",
+    "websiteLink": "https://example.com",
+    "technologies": ["Next.js", "TypeScript", "Socket.IO", "MongoDB"],
+    "status": "Adding Features",
+    "stage": "Alpha Test",
+    "progress": 90,
+    "category": "Frontend",
+    "impact": "Real-time communication app",
+    "team": "Individual Project",
+    "icon": "💬"
+  }
+]
