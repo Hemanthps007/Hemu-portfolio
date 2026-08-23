@@ -5,7 +5,9 @@
     "outcome": "First Place Winners",
     "description": "Developed a cloud-based collaboration portal that tracks team milestones in real-time.",
     "techUsed": "Next.js, TailwindCSS, AWS, Node.js",
-    "certificateUrl": "/placeholder-cert.jpg",
-    "media": []
+    "certificateUrl": "/images/hackathon_winner.png",
+    "media": [
+      "/images/hackathon_winner.png"
+    ]
   }
 ]

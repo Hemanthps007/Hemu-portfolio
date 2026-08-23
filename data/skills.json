@@ -5,14 +5,14 @@
   },
   {
     "category": "Frontend",
-    "items": "React, Next.js, HTML5, CSS3, Tailwind"
+    "items": "React, html5, css3"
   },
   {
     "category": "Backend",
-    "items": "Node.js, Express, Spring Boot, REST APIs, Authentication"
+    "items": "Node.js, Express, REST APIs, django, flask"
   },
   {
     "category": "Data & Cloud",
-    "items": "PostgreSQL, MongoDB, MySQL, AWS, Docker, Git"
+    "items": "SQL, mongodb, git & github"
   }
 ]

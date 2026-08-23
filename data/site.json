@@ -1,7 +1,7 @@
 {
-  "title": "Your Name - SDE Portfolio",
+  "title": "Hemanth - SDE Portfolio",
   "description": "Software Development Engineer portfolio showing selected work, experiences, certifications and skills.",
-  "copyright": "© 2026 Your Name. All rights reserved.",
+  "copyright": "© 2026 Hemanth. All rights reserved.",
   "nav": [
     { "label": "About", "href": "/#about" },
     { "label": "Education", "href": "/#education" },
