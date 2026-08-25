@@ -1,23 +1,31 @@
 [
   {
-    "title": "E-Commerce Platform",
-    "description": "A full-stack web application for managing products, orders, and user accounts with a responsive storefront and dashboard.",
-    "projectLink": "https://github.com",
-    "websiteLink": "https://example.com",
-    "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+    "title": "Business Tester",
+    "description": "AI-powered business validation tool designed to evaluate startup and business ideas. It analyzes key factors such as market potential, target audience, competition, feasibility, and business risks to provide useful insights and help users make better business decisions.",
+    "projectLink": "https://github.com/Hemanthps007/Business_Tester",
+    "websiteLink": "https://gemini.google.com/gem/1fOuqs17ljJAQ-QJrw1wGpwHDQirNMygw?usp=sharing",
+    "technologies": [
+      "Gemini",
+      "AI"
+    ],
     "status": "Completed",
     "stage": "Production",
     "progress": 100,
-    "category": "Full-Stack",
-    "impact": "Production platform with Stripe billing",
+    "category": "AI / ML",
+    "impact": "AI-powered business validation tool",
     "team": "Individual Project",
-    "icon": "🛒"
+    "icon": "�"
   },
   {
     "title": "Task Management System",
     "description": "A productivity platform for team collaboration with task tracking, filters, and analytics for progress visibility.",
     "projectLink": "https://github.com",
-    "technologies": ["Java", "Spring Boot", "MySQL", "REST API"],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST API"
+    ],
     "status": "Completed",
     "stage": "MVP",
     "progress": 100,
@@ -31,7 +39,12 @@
     "description": "A messaging platform with live updates, user presence, and structured conversation views for collaborative communication.",
     "projectLink": "https://github.com",
     "websiteLink": "https://example.com",
-    "technologies": ["Next.js", "TypeScript", "Socket.IO", "MongoDB"],
+    "technologies": [
+      "Next.js",
+      "TypeScript",
+      "Socket.IO",
+      "MongoDB"
+    ],
     "status": "Adding Features",
     "stage": "Alpha Test",
     "progress": 90,

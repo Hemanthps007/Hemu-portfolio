@@ -1,8 +1,12 @@
 [
   {
-    "title": "API Mock Server",
-    "description": "Local server to mock REST API endpoints for rapid frontend prototyping without full backend setups.",
-    "features": ["Dynamic routing", "JSON payloads", "Latency mock"],
+    "title": "Website Analyser",
+    "description": "Designed an independent web tool for analysing websites. ",
+    "features": [
+      "Dynamic routing",
+      "JSON payloads",
+      "Latency mock"
+    ],
     "status": "Completed",
     "category": "CLI / DevTool",
     "icon": "🌐",
@@ -12,7 +16,11 @@
   {
     "title": "Git Hooks Manager",
     "description": "Lightweight bash utilities to automate code quality verification, formatting, and linting checks before committing.",
-    "features": ["Pre-commit hooks", "Linter automation", "Branch checks"],
+    "features": [
+      "Pre-commit hooks",
+      "Linter automation",
+      "Branch checks"
+    ],
     "status": "In Progress",
     "category": "Git Tool",
     "icon": "🔧",

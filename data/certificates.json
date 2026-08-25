@@ -1,8 +1,74 @@
 [
   {
-    "src": "/placeholder-cert.jpg",
-    "alt": "AWS Certified Cloud Practitioner",
-    "desc": "Validation of cloud fluency and foundational AWS knowledge.",
-    "caption": "AWS Certification"
+    "src": "/certificates/HEMANTH PS_page-0001.jpg",
+    "alt": "InAmigos Foundation Web Development Internship Certificate",
+    "desc": "Successfully completed a Web Development Internship at InAmigos Foundation from May 12, 2026 to May 25, 2026.",
+    "caption": "InAmigos Foundation Internship"
+  },
+  {
+    "src": "/certificates/Hemanth ps (1)_page-0001.jpg",
+    "alt": "InAmigos Foundation Donation Certificate",
+    "desc": "Awarded for making a generous donation and supporting the social initiatives of the InAmigos Foundation.",
+    "caption": "Donation Certificate"
+  },
+  {
+    "src": "/certificates/IBMDesign20260116-29-bfbqbx_page-0001.jpg",
+    "alt": "IBM SkillsBuild Artificial Intelligence Fundamentals",
+    "desc": "Successfully completed the course requirements for Artificial Intelligence Fundamentals on January 13, 2026.",
+    "caption": "IBM AI Fundamentals"
+  },
+  {
+    "src": "/certificates/New Doc 04-17-2026 14.53_1.jpg",
+    "alt": "INFOTHON 6.0 3rd Prize - Vidyavardhaka College of Engineering",
+    "desc": "Won 3rd Prize at INFOTHON 6.0, a 24-hour National Level Hackathon conducted by the Department of ISE at VVCE, Mysuru on April 11-12, 2026.",
+    "caption": "INFOTHON 6.0 - 3rd Prize"
+  },
+  {
+    "src": "/certificates/New Doc 04-17-2026 14.53_2.jpg",
+    "alt": "INFOTHON 6.0 Participation Certificate",
+    "desc": "Participated in INFOTHON 6.0, a 24-hour National Level Hackathon organized by the Department of ISE at VVCE, Mysuru on April 11-12, 2026.",
+    "caption": "INFOTHON 6.0 Participation"
+  },
+  {
+    "src": "/certificates/Screenshot 2026-08-25 210500.png",
+    "alt": "be10X AI Tools & ChatGPT Workshop Completion Certificate",
+    "desc": "Completed the AI Tools and ChatGPT workshop on January 18, 2026, gaining competency in AI-powered productivity, coding, and data analysis.",
+    "caption": "AI Tools & ChatGPT Workshop"
+  },
+  {
+    "src": "/certificates/Screenshot 2026-08-25 210705.png",
+    "alt": "OfficeMaster PowerBI Workshop Completion Certificate",
+    "desc": "Completed the PowerBI workshop for building interactive and AI-powered business intelligence dashboards on January 25, 2026.",
+    "caption": "PowerBI Workshop"
+  },
+  {
+    "src": "/certificates/Screenshot 2026-08-25 210842.png",
+    "alt": "Eyesec Cyber Security Implications & Defences Certification",
+    "desc": "Successfully completed a six-day course on Cyber Security Implications & Defences from August 26, 2024 to August 31, 2024 with a score of 98.00%.",
+    "caption": "Cyber Security Certification"
+  },
+  {
+    "src": "/certificates/Screenshot 2026-08-25 211224.png",
+    "alt": "HackNova 1.0 Participation Certificate - CIT Ponnampet",
+    "desc": "Participated in HackNova 1.0, a 24-hour National Level Hackathon organized by the Student Association Technova, CSE Department at Coorg Institute of Technology on October 15-16, 2025.",
+    "caption": "HackNova 1.0 Participation"
+  },
+  {
+    "src": "/certificates/data analytics _page-0001.jpg",
+    "alt": "Deloitte Data Analytics Job Simulation Certificate",
+    "desc": "Completed practical tasks in Data Analysis and Forensic Technology through the Deloitte Data Analytics Job Simulation on Forage in February 2026.",
+    "caption": "Deloitte Data Analytics"
+  },
+  {
+    "src": "/certificates/gen ai mastermind_page-0001.jpg",
+    "alt": "Outskill Generative AI Mastermind Completion Certificate",
+    "desc": "Successfully completed the Generative AI Mastermind course by Outskill covering LLMs, prompt engineering, and generative application workflows.",
+    "caption": "Generative AI Mastermind"
+  },
+  {
+    "src": "/certificates/skillcraft_page-0001.jpg",
+    "alt": "SkillCraft Technology Web Development Internship Certificate",
+    "desc": "Successfully completed a 1-month Web Development internship at SkillCraft Technology from November 1, 2025 to November 30, 2025.",
+    "caption": "SkillCraft Internship"
   }
 ]
