@@ -1,13 +1,51 @@
 [
   {
-    "eventName": "National Level Hackathon",
-    "date": "March 2024",
-    "outcome": "First Place Winners",
-    "description": "Developed a cloud-based collaboration portal that tracks team milestones in real-time.",
-    "techUsed": "Next.js, TailwindCSS, AWS, Node.js",
-    "certificateUrl": "/images/hackathon_winner.png",
+    "eventName": "Tech Sutra",
+    "date": "April 2026",
+    "outcome": "Winner of the 'Build and Pitch' competition",
+    "description": "Winner of the 'Build and Pitch' competition at Tech Sutra, organized by the Department of Information Science and Engineering, Rajeev Institute of Technology, Hassan.",
+    "techUsed": "React, Node.js, Pitching, Web Development",
+    "certificateUrl": "/certificates/Tech Sutra.jpeg",
     "media": [
-      "/images/hackathon_winner.png"
+      "/events/Tech Sutra/image 1.jpeg",
+      "/events/Tech Sutra/image 2.jpeg",
+      "/events/Tech Sutra/image 3.jpeg",
+      "/events/Tech Sutra/image 4.jpeg",
+      "/events/Tech Sutra/image 5.jpeg",
+      "/events/Tech Sutra/image 6.jpeg",
+      "/events/Tech Sutra/image 7.jpeg",
+      "/events/Tech Sutra/image 8.jpeg"
+    ]
+  },
+  {
+    "eventName": "INFOTHON 6.0",
+    "date": "April 2026",
+    "outcome": "3rd Prize Winner",
+    "description": "Won 3rd Prize at INFOTHON 6.0, a 24-hour National Level Hackathon conducted by the Department of ISE at Vidyavardhaka College of Engineering (VVCE), Mysuru.",
+    "techUsed": "React, Node.js, Web Development",
+    "certificateUrl": "/certificates/New Doc 04-17-2026 14.53_1.jpg",
+    "media": [
+      "/events/Infothon 6.o/image 1.jpeg",
+      "/events/Infothon 6.o/image 2.jpeg",
+      "/events/Infothon 6.o/image 3.jpeg",
+      "/events/Infothon 6.o/image 4.jpeg",
+      "/events/Infothon 6.o/image 5.jpeg",
+      "/events/Infothon 6.o/image 6.jpg"
+    ]
+  },
+  {
+    "eventName": "HackNova 1.0",
+    "date": "October 2025",
+    "outcome": "Participant",
+    "description": "Participated in HackNova 1.0, a 24-hour National Level Hackathon organized by the Student Association Technova, CSE Department at Coorg Institute of Technology (CIT), Ponnampet.",
+    "techUsed": "Web Development, Problem Solving, Rapid Prototyping",
+    "certificateUrl": "/certificates/Screenshot 2026-08-25 211224.png",
+    "media": [
+      "/events/Hackanova 1.o/image 1.png",
+      "/events/Hackanova 1.o/image 2.jpeg",
+      "/events/Hackanova 1.o/image 3.jpeg",
+      "/events/Hackanova 1.o/image 4.jpeg",
+      "/events/Hackanova 1.o/image 5.jpeg"
     ]
   }
 ]
