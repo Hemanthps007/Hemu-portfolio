@@ -27,7 +27,7 @@ export default function ContactPage() {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: '2rem' }}>
             <div className="glass-card" style={{ padding: '2.5rem' }}>
               <h3 className="text-gradient" style={{ fontSize: '1.5rem', marginBottom: '1.5rem' }}>Contact Details</h3>
-              
+
               <div className="contact-container" style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem' }}>
                 <div className="contact-item" style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                   <FaEnvelope className="contact-icon" style={{ fontSize: '1.2rem', color: 'var(--aura-primary)' }} />
@@ -66,15 +66,15 @@ export default function ContactPage() {
               <h3 className="text-gradient" style={{ fontSize: '1.5rem' }}>Send a Message</h3>
               <div>
                 <label style={{ display: 'block', marginBottom: '0.4rem', fontWeight: 600, fontSize: '0.9rem' }}>Name</label>
-                <input type="text" placeholder="Your name" style={{ width: '100%', padding: '0.8rem 1rem', borderRadius: '10px', background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.08)', color: 'white', outline: 'none' }} />
+                <input type="text" placeholder="Your name" style={{ width: '100%', padding: '0.8rem 1rem', borderRadius: '10px', background: 'rgba(255, 255, 255, 1)', border: '1px solid rgba(255,255,255,0.08)', color: 'white', outline: 'none' }} />
               </div>
               <div>
                 <label style={{ display: 'block', marginBottom: '0.4rem', fontWeight: 600, fontSize: '0.9rem' }}>Email</label>
-                <input type="email" placeholder="you@example.com" style={{ width: '100%', padding: '0.8rem 1rem', borderRadius: '10px', background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.08)', color: 'white', outline: 'none' }} />
+                <input type="email" placeholder="you@example.com" style={{ width: '100%', padding: '0.8rem 1rem', borderRadius: '10px', background: 'rgba(255, 255, 255, 1)', border: '1px solid rgba(255,255,255,0.08)', color: 'white', outline: 'none' }} />
               </div>
               <div>
                 <label style={{ display: 'block', marginBottom: '0.4rem', fontWeight: 600, fontSize: '0.9rem' }}>Message</label>
-                <textarea rows={4} placeholder="Write your message..." style={{ width: '100%', padding: '0.8rem 1rem', borderRadius: '10px', background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.08)', color: 'white', outline: 'none', resize: 'vertical' }} />
+                <textarea rows={4} placeholder="Write your message..." style={{ width: '100%', padding: '0.8rem 1rem', borderRadius: '10px', background: 'rgba(255, 255, 255, 1)', border: '1px solid rgba(255,255,255,0.08)', color: 'white', outline: 'none', resize: 'vertical' }} />
               </div>
               <button type="submit" className="button-aura" style={{ marginTop: '0.5rem', justifyContent: 'center' }}>Send Message</button>
             </form>
