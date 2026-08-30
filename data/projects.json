@@ -5,51 +5,53 @@
     "projectLink": "https://github.com/Hemanthps007/Business_Tester",
     "websiteLink": "https://gemini.google.com/gem/1fOuqs17ljJAQ-QJrw1wGpwHDQirNMygw?usp=sharing",
     "technologies": [
-      "Gemini",
+      "Gemini Gems",
       "AI"
     ],
     "status": "Completed",
     "stage": "Production",
     "progress": 100,
-    "category": "AI / ML",
+    "category": "AI",
     "impact": "AI-powered business validation tool",
     "team": "Individual Project",
-    "icon": "�"
+    "icon": "🤖"
   },
   {
-    "title": "Task Management System",
-    "description": "A productivity platform for team collaboration with task tracking, filters, and analytics for progress visibility.",
-    "projectLink": "https://github.com",
+    "title": "AyushVeda",
+    "description": "AyushVeda — ML-Based Ayurvedic Health Management System.",
+    "projectLink": "https://github.com/Hemanthps007/AyushVeda-Final.git",
+    "websiteLink": "https://ayush-veda-final.vercel.app/",
     "technologies": [
-      "Java",
-      "Spring Boot",
-      "MySQL",
-      "REST API"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Flask",
+      "SQLite"
     ],
     "status": "Completed",
-    "stage": "MVP",
+    "stage": "Production",
     "progress": 100,
-    "category": "Backend",
-    "impact": "Enterprise grade REST APIs",
+    "category": "Full Stack Development",
+    "impact": "A full-stack Health management system with user authentication, task CRUD operations, and project-based organization.",
     "team": "Individual Project",
-    "icon": "📝"
+    "icon": "/ayushveda_logo.png"
   },
   {
-    "title": "Real-Time Chat App",
-    "description": "A messaging platform with live updates, user presence, and structured conversation views for collaborative communication.",
-    "projectLink": "https://github.com",
-    "websiteLink": "https://example.com",
+    "title": "Startup Validator",
+    "description": "AI-powered business validation tool designed to evaluate startup and business ideas. It analyzes key factors such as market potential, target audience, competition, feasibility, and business risks to provide useful insights and help users make better business decisions.",
+    "projectLink": "https://github.com/Hemanthps007/Startup-validator.git",
+    "websiteLink": "https://startup-validator-lac.vercel.app/",
     "technologies": [
-      "Next.js",
-      "TypeScript",
-      "Socket.IO",
-      "MongoDB"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js"
     ],
     "status": "Adding Features",
     "stage": "Alpha Test",
-    "progress": 90,
+    "progress": 50,
     "category": "Frontend",
-    "impact": "Real-time communication app",
+    "impact": "AI-powered business validation tool",
     "team": "Individual Project",
     "icon": "💬"
   }

@@ -14,7 +14,13 @@ function ProjectCard({ project, index }: { project: (typeof projects)[0]; index:
         <span>{getStatusIcon(project.status)}</span>
         {project.status}
       </div>
-      <div style={{ fontSize: '3rem', textAlign: 'center', marginBottom: '1rem' }}>{project.icon}</div>
+      <div style={{ fontSize: '3rem', display: 'flex', justifyContent: 'center', alignItems: 'center', marginBottom: '1rem', height: '4.5rem' }}>
+        {project.icon.startsWith('/') || project.icon.includes('.') ? (
+          <img src={project.icon} alt={project.title} style={{ height: '3.5rem', width: 'auto', objectFit: 'contain' }} />
+        ) : (
+          project.icon
+        )}
+      </div>
       <h3 style={{ fontSize: '1.4rem', textAlign: 'center', marginBottom: '0.75rem' }}>{project.title}</h3>
       <div style={{ display: 'flex', justifyContent: 'center', gap: '0.5rem', marginBottom: '1rem', flexWrap: 'wrap' }}>
         <span className="tag-aura">{project.category}</span>
