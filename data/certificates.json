@@ -2,79 +2,135 @@
   {
     "src": "/certificates/Tech Sutra.jpeg",
     "alt": "Tech Sutra Build and Pitch Competition Winner Certificate",
-    "desc": "Winner of the 'Build and Pitch' competition at Tech Sutra, organized by the Department of Information Science and Engineering, Rajeev Institute of Technology, Hassan.",
-    "caption": "Tech Sutra Winner"
+    "caption": "Tech Sutra Winner",
+    "issuer": "Rajeev Institute of Technology, Hassan (Dept. of ISE)",
+    "category": "Competition Winner",
+    "date": "2026",
+    "skills": ["Idea Pitching", "Product Innovation", "Presentation", "Technical Architecture"],
+    "desc": "Winner of the 'Build and Pitch' competition at Tech Sutra, organized by the Department of Information Science and Engineering, Rajeev Institute of Technology, Hassan."
   },
   {
     "src": "/certificates/HEMANTH PS_page-0001.jpg",
     "alt": "InAmigos Foundation Web Development Internship Certificate",
-    "desc": "Successfully completed a Web Development Internship at InAmigos Foundation from May 12, 2026 to May 25, 2026.",
-    "caption": "InAmigos Foundation Internship"
+    "caption": "InAmigos Foundation Internship",
+    "issuer": "InAmigos Foundation",
+    "category": "Internship",
+    "date": "May 12, 2026 – May 25, 2026",
+    "skills": ["Frontend Development", "Web Technologies", "Team Collaboration"],
+    "desc": "Successfully completed a Web Development Internship at InAmigos Foundation from May 12, 2026 to May 25, 2026."
   },
   {
     "src": "/certificates/Hemanth ps (1)_page-0001.jpg",
     "alt": "InAmigos Foundation Donation Certificate",
-    "desc": "Awarded for making a generous donation and supporting the social initiatives of the InAmigos Foundation.",
-    "caption": "Donation Certificate"
+    "caption": "Donation Certificate",
+    "issuer": "InAmigos Foundation",
+    "category": "Social Impact",
+    "date": "2026",
+    "skills": ["Social Responsibility", "Community Initiatives"],
+    "desc": "Awarded for making a generous donation and supporting the social initiatives of the InAmigos Foundation."
   },
   {
     "src": "/certificates/IBMDesign20260116-29-bfbqbx_page-0001.jpg",
     "alt": "IBM SkillsBuild Artificial Intelligence Fundamentals",
-    "desc": "Successfully completed the course requirements for Artificial Intelligence Fundamentals on January 13, 2026.",
-    "caption": "IBM AI Fundamentals"
+    "caption": "IBM AI Fundamentals",
+    "issuer": "IBM SkillsBuild",
+    "category": "Artificial Intelligence",
+    "date": "January 13, 2026",
+    "skills": ["AI Fundamentals", "Machine Learning", "Neural Networks", "AI Ethics"],
+    "desc": "Successfully completed the course requirements for Artificial Intelligence Fundamentals on January 13, 2026."
   },
   {
     "src": "/certificates/New Doc 04-17-2026 14.53_1.jpg",
     "alt": "INFOTHON 6.0 3rd Prize - Vidyavardhaka College of Engineering",
-    "desc": "Won 3rd Prize at INFOTHON 6.0, a 24-hour National Level Hackathon conducted by the Department of ISE at VVCE, Mysuru on April 11-12, 2026.",
-    "caption": "INFOTHON 6.0 - 3rd Prize"
+    "caption": "INFOTHON 6.0 - 3rd Prize",
+    "issuer": "Vidyavardhaka College of Engineering (VVCE, Mysuru)",
+    "category": "National Hackathon",
+    "date": "April 11–12, 2026",
+    "score": "3rd Prize Winner",
+    "skills": ["Rapid Prototyping", "Full-Stack Development", "Hackathon Pitching", "Teamwork"],
+    "desc": "Won 3rd Prize at INFOTHON 6.0, a 24-hour National Level Hackathon conducted by the Department of ISE at VVCE, Mysuru on April 11-12, 2026."
   },
   {
     "src": "/certificates/New Doc 04-17-2026 14.53_2.jpg",
     "alt": "INFOTHON 6.0 Participation Certificate",
-    "desc": "Participated in INFOTHON 6.0, a 24-hour National Level Hackathon organized by the Department of ISE at VVCE, Mysuru on April 11-12, 2026.",
-    "caption": "INFOTHON 6.0 Participation"
+    "caption": "INFOTHON 6.0 Participation",
+    "issuer": "VVCE Mysuru (Dept. of ISE)",
+    "category": "National Hackathon",
+    "date": "April 11–12, 2026",
+    "skills": ["24hr Hackathon", "Software Architecture", "Problem Solving"],
+    "desc": "Participated in INFOTHON 6.0, a 24-hour National Level Hackathon organized by the Department of ISE at VVCE, Mysuru on April 11-12, 2026."
   },
   {
     "src": "/certificates/Screenshot 2026-08-25 210500.png",
     "alt": "be10X AI Tools & ChatGPT Workshop Completion Certificate",
-    "desc": "Completed the AI Tools and ChatGPT workshop on January 18, 2026, gaining competency in AI-powered productivity, coding, and data analysis.",
-    "caption": "AI Tools & ChatGPT Workshop"
+    "caption": "AI Tools & ChatGPT Workshop",
+    "issuer": "be10X",
+    "category": "Generative AI",
+    "date": "January 18, 2026",
+    "skills": ["ChatGPT Prompting", "AI Productivity", "AI-assisted Coding", "Data Analysis"],
+    "desc": "Completed the AI Tools and ChatGPT workshop on January 18, 2026, gaining competency in AI-powered productivity, coding, and data analysis."
   },
   {
     "src": "/certificates/Screenshot 2026-08-25 210705.png",
     "alt": "OfficeMaster PowerBI Workshop Completion Certificate",
-    "desc": "Completed the PowerBI workshop for building interactive and AI-powered business intelligence dashboards on January 25, 2026.",
-    "caption": "PowerBI Workshop"
+    "caption": "PowerBI Workshop",
+    "issuer": "OfficeMaster",
+    "category": "Business Intelligence",
+    "date": "January 25, 2026",
+    "skills": ["PowerBI", "Interactive Dashboards", "Data Visualization", "Business Analytics"],
+    "desc": "Completed the PowerBI workshop for building interactive and AI-powered business intelligence dashboards on January 25, 2026."
   },
   {
     "src": "/certificates/Screenshot 2026-08-25 210842.png",
     "alt": "Eyesec Cyber Security Implications & Defences Certification",
-    "desc": "Successfully completed a six-day course on Cyber Security Implications & Defences from August 26, 2024 to August 31, 2024 with a score of 98.00%.",
-    "caption": "Cyber Security Certification"
+    "caption": "Cyber Security Certification",
+    "issuer": "EYESEC Cyber Security Solutions Pvt. Ltd. (Approved by AICTE for Internships)",
+    "conductedAt": "Department of CSE, Coorg Institute of Technology, Ponnampet",
+    "category": "Cyber Security",
+    "date": "August 26 – 31, 2024 (Issue Date: 05/09/2024)",
+    "score": "98.00%",
+    "credentialId": "4CI23CS017",
+    "skills": ["Cyber Security", "Defensive Security", "Threat Implications", "Network Security", "AICTE Approved"],
+    "desc": "Successfully completed a six-day course on Cyber Security Implications & Defences from August 26, 2024 to August 31, 2024 conducted at Department of CSE, Coorg Institute of Technology with a consolidated score of 98.00%."
   },
   {
     "src": "/certificates/Screenshot 2026-08-25 211224.png",
     "alt": "HackNova 1.0 Participation Certificate - CIT Ponnampet",
-    "desc": "Participated in HackNova 1.0, a 24-hour National Level Hackathon organized by the Student Association Technova, CSE Department at Coorg Institute of Technology on October 15-16, 2025.",
-    "caption": "HackNova 1.0 Participation"
+    "caption": "HackNova 1.0 Participation",
+    "issuer": "Coorg Institute of Technology (Dept. of CSE)",
+    "category": "Hackathon",
+    "date": "October 15–16, 2025",
+    "skills": ["Hackathon", "Product Development", "System Design", "Technova"],
+    "desc": "Participated in HackNova 1.0, a 24-hour National Level Hackathon organized by the Student Association Technova, CSE Department at Coorg Institute of Technology on October 15-16, 2025."
   },
   {
     "src": "/certificates/data analytics _page-0001.jpg",
     "alt": "Deloitte Data Analytics Job Simulation Certificate",
-    "desc": "Completed practical tasks in Data Analysis and Forensic Technology through the Deloitte Data Analytics Job Simulation on Forage in February 2026.",
-    "caption": "Deloitte Data Analytics"
+    "caption": "Deloitte Data Analytics",
+    "issuer": "Deloitte (via Forage)",
+    "category": "Data Analytics",
+    "date": "February 2026",
+    "skills": ["Data Analysis", "Forensic Technology", "Business Intelligence", "Simulation"],
+    "desc": "Completed practical tasks in Data Analysis and Forensic Technology through the Deloitte Data Analytics Job Simulation on Forage in February 2026."
   },
   {
     "src": "/certificates/gen ai mastermind_page-0001.jpg",
     "alt": "Outskill Generative AI Mastermind Completion Certificate",
-    "desc": "Successfully completed the Generative AI Mastermind course by Outskill covering LLMs, prompt engineering, and generative application workflows.",
-    "caption": "Generative AI Mastermind"
+    "caption": "Generative AI Mastermind",
+    "issuer": "Outskill",
+    "category": "Generative AI",
+    "date": "2026",
+    "skills": ["LLM Architecture", "Prompt Engineering", "Generative Workflows", "AI Agents"],
+    "desc": "Successfully completed the Generative AI Mastermind course by Outskill covering LLMs, prompt engineering, and generative application workflows."
   },
   {
     "src": "/certificates/skillcraft_page-0001.jpg",
     "alt": "SkillCraft Technology Web Development Internship Certificate",
-    "desc": "Successfully completed a 1-month Web Development internship at SkillCraft Technology from November 1, 2025 to November 30, 2025.",
-    "caption": "SkillCraft Internship"
+    "caption": "SkillCraft Internship",
+    "issuer": "SkillCraft Technology",
+    "category": "Internship",
+    "date": "November 1 – November 30, 2025",
+    "skills": ["Full Stack Web", "HTML/CSS/JS", "Responsive UI", "Web Applications"],
+    "desc": "Successfully completed a 1-month Web Development internship at SkillCraft Technology from November 1, 2025 to November 30, 2025."
   }
 ]

@@ -89,6 +89,14 @@ export interface Certificate {
   alt: string;
   desc: string;
   caption?: string;
+  issuer?: string;
+  conductedAt?: string;
+  category?: string;
+  date?: string;
+  score?: string;
+  skills?: string[];
+  credentialId?: string;
+  verificationLink?: string;
 }
 
 export interface NavItem {
