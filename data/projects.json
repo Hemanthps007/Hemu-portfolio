@@ -33,7 +33,7 @@
     "progress": 100,
     "category": "Full Stack Development",
     "impact": "A full-stack Health management system with user authentication, task CRUD operations, and project-based organization.",
-    "team": "Individual Project",
+    "team": "Group Final Year project",
     "icon": "/ayushveda_logo.png"
   },
   {
@@ -54,5 +54,25 @@
     "impact": "AI-powered business validation tool",
     "team": "Individual Project",
     "icon": "💬"
+  },
+  {
+    "title": "Edu-Bridge",
+    "description": "AI-powered platform helping Indian students navigate their global education journey with confidence.",
+    "projectLink": "https://github.com/Hemanthps007/Edu_Bridge.git",
+    "websiteLink": "https://edu-bridge-007.vercel.app/",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Django",
+      "Firebase"
+    ],
+    "status": "In Progress",
+    "stage": "Development",
+    "progress": 60,
+    "category": "Full Stack Development",
+    "impact": "AI-powered career guidance and university selection platform",
+    "team": "Individual Project",
+    "icon": "🎓"
   }
 ]
