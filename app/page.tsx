@@ -32,22 +32,34 @@ export default function Home() {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ ...transitionAura, duration: 0.8 }}
           >
-            <div
-              style={{
-                width: 180,
-                height: 180,
-                borderRadius: '50%',
-                background: '#1e293b',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                fontSize: '2.5rem',
-                fontWeight: 'bold',
-                color: 'var(--aura-primary)'
-              }}
-            >
-              {profile.name ? profile.name.split(' ').map((n) => n[0]).join('') : 'YN'}
-            </div>
+            {profile.photo ? (
+              <Image
+                src={asset(profile.photo)}
+                alt={profile.name}
+                width={180}
+                height={180}
+                priority
+                className="profile-photo-inner"
+                style={{ objectFit: 'cover', width: 180, height: 180, borderRadius: '50%' }}
+              />
+            ) : (
+              <div
+                style={{
+                  width: 180,
+                  height: 180,
+                  borderRadius: '50%',
+                  background: '#1e293b',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  fontSize: '2.5rem',
+                  fontWeight: 'bold',
+                  color: 'var(--aura-primary)'
+                }}
+              >
+                {profile.name ? profile.name.split(' ').map((n) => n[0]).join('') : 'YN'}
+              </div>
+            )}
           </motion.div>
           <motion.h1
             className="text-gradient"

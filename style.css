@@ -229,6 +229,7 @@ textarea {
   color: #06131a;
   font-weight: 900;
   font-size: 1.4rem;
+  object-fit: cover;
 }
 
 .mini-label {
