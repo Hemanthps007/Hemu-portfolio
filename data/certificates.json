@@ -1,5 +1,17 @@
 [
   {
+    "src": "/certificates/LEAP MYSURU.png",
+    "alt": "LEAP Hackathon 2026-27 Mysuru Participant Certificate - Government of Karnataka",
+    "caption": "LEAP Hackathon 2026-27 (Mysuru)",
+    "issuer": "Govt. of Karnataka (Dept. of E, IT & Bt), K-tech, Startup Karnataka, LEAP & TiE Bangalore",
+    "conductedAt": "Mysuru, Karnataka",
+    "category": "Government Hackathon",
+    "date": "September 10–11, 2026",
+    "score": "Participant & Finalist",
+    "skills": ["Product Innovation", "Full-Stack Development", "Rapid Prototyping", "Pitching & Presentation", "System Architecture"],
+    "desc": "Participated in the LEAP Hackathon 2026-27 Mysuru edition, part of Karnataka's Largest Product Innovation Hackathon Series organized by the Department of Electronics, IT & Bt (Government of Karnataka), K-tech, Startup Karnataka, and TiE Bangalore."
+  },
+  {
     "src": "/certificates/Tech Sutra.jpeg",
     "alt": "Tech Sutra Build and Pitch Competition Winner Certificate",
     "caption": "Tech Sutra Winner",

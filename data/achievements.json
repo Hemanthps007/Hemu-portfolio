@@ -1,5 +1,20 @@
 [
   {
+    "eventName": "LEAP Hackathon 2026-27 (Mysuru Edition)",
+    "date": "September 2026",
+    "outcome": "Participant & Finalist (Team HexaDevs)",
+    "description": "Participated in Karnataka's Largest Product Innovation Hackathon Series organized by the Department of Electronics, IT & Bt (Government of Karnataka), K-tech, Startup Karnataka, LEAP, and TiE Bangalore. Developed and pitched 'CareConnect' with Team HexaDevs.",
+    "techUsed": "Full-Stack Development, Product Innovation, Rapid Prototyping, Pitching & Presentation",
+    "certificateUrl": "/certificates/LEAP MYSURU.png",
+    "media": [
+      "/events/LEAP HACKATHON/WhatsApp Image 2026-09-10 at 4.19.30 PM.jpeg",
+      "/events/LEAP HACKATHON/WhatsApp Image 2026-09-11 at 9.41.24 AM.jpeg",
+      "/events/LEAP HACKATHON/WhatsApp Image 2026-09-11 at 8.54.20 PM.jpeg",
+      "/events/LEAP HACKATHON/WhatsApp Image 2026-09-11 at 8.54.00 PM.jpeg",
+      "/events/LEAP HACKATHON/WhatsApp Image 2026-09-11 at 8.54.04 PM.jpeg"
+    ]
+  },
+  {
     "eventName": "Tech Sutra",
     "date": "April 2026",
     "outcome": "Winner of the 'Build and Pitch' competition",
