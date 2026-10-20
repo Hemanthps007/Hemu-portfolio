@@ -1,29 +1,29 @@
 @import './aura.css';
 @import './animations.css';
 
-/* Modern Color Scheme */
+/* Modern Color Scheme - Midnight Obsidian & Deep Slate */
 :root {
-  --aura-bg: #0a0a0f;
-  --aura-primary: #8b5cf6;
-  --aura-secondary: #06b6d4;
-  --aura-glow: rgba(139, 92, 246, 0.35);
+  --aura-bg: #090d16;
+  --aura-primary: #38bdf8;
+  --aura-secondary: #a855f7;
+  --aura-glow: rgba(56, 189, 248, 0.35);
   --glass-bg: rgba(255, 255, 255, 0.04);
   --snap-section-height: 100dvh;
-  --text-muted: #9ca3af;
-  --primary: #8b5cf6;
-  --primary-dark: #1d4ed8;
-  --secondary: #4f46e5;
-  --accent: #8b5cf6;
-  --dark: #111827;
-  --light: #f3f4f6;
-  --text-light: #e5e7eb;
-  --text-dark: #1f2937;
+  --text-muted: #94a3b8;
+  --primary: #38bdf8;
+  --primary-dark: #0284c7;
+  --secondary: #a855f7;
+  --accent: #c084fc;
+  --dark: #090d16;
+  --light: #f8fafc;
+  --text-light: #f1f5f9;
+  --text-dark: #0f172a;
   --success: #10b981;
-  --card-bg: #1e293b;
-  --border: #374151;
-  --gradient-start: rgba(79, 70, 229, 0.2);
-  --gradient-end: rgba(139, 92, 246, 0.1);
-  --accent-glow: rgba(139, 92, 246, 0.6);
+  --card-bg: #0f172a;
+  --border: rgba(255, 255, 255, 0.08);
+  --gradient-start: rgba(56, 189, 248, 0.2);
+  --gradient-end: rgba(168, 85, 247, 0.15);
+  --accent-glow: rgba(56, 189, 248, 0.5);
 }
 
 * {

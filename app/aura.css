@@ -54,8 +54,8 @@
 
 .glass-card:hover {
   transform: translateY(-6px);
-  border-color: rgba(139, 92, 246, 0.35);
-  box-shadow: 0 16px 48px rgba(139, 92, 246, 0.15);
+  border-color: rgba(56, 189, 248, 0.35);
+  box-shadow: 0 16px 48px rgba(56, 189, 248, 0.15);
 }
 
 .button-aura {
@@ -87,7 +87,7 @@
 }
 
 .button-aura--outline:hover {
-  background: rgba(139, 92, 246, 0.15);
+  background: rgba(56, 189, 248, 0.12);
   box-shadow: 0 4px 20px var(--aura-glow);
 }
 
@@ -147,7 +147,7 @@
   left: 50%;
   transform: translateX(-50%);
   z-index: 1000;
-  background: rgba(10, 10, 15, 0.85);
+  background: rgba(9, 13, 22, 0.85);
   backdrop-filter: blur(16px);
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 999px;
@@ -166,7 +166,7 @@
 
 .bottom-nav a:hover,
 .bottom-nav a.active {
-  background: rgba(139, 92, 246, 0.25);
+  background: rgba(56, 189, 248, 0.2);
   color: white;
 }
 
@@ -241,9 +241,9 @@
 }
 
 .tag-aura--outline {
-  background: rgba(139, 92, 246, 0.15);
+  background: rgba(56, 189, 248, 0.12);
   color: var(--aura-primary);
-  border: 1px solid rgba(139, 92, 246, 0.3);
+  border: 1px solid rgba(56, 189, 248, 0.3);
 }
 
 .tag-aura--sm {

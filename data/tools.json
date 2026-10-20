@@ -12,19 +12,5 @@
     "icon": "🌐",
     "demoLink": "https://github.com",
     "githubLink": "https://github.com"
-  },
-  {
-    "title": "Git Hooks Manager",
-    "description": "Lightweight bash utilities to automate code quality verification, formatting, and linting checks before committing.",
-    "features": [
-      "Pre-commit hooks",
-      "Linter automation",
-      "Branch checks"
-    ],
-    "status": "In Progress",
-    "category": "Git Tool",
-    "icon": "🔧",
-    "demoLink": "https://github.com",
-    "githubLink": "https://github.com"
   }
 ]
