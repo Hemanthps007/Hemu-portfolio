@@ -215,16 +215,20 @@
   .scroll-indicator {
     display: none;
   }
+
   .bottom-nav {
     display: flex;
   }
+
   .projects-grid,
   .tools-grid {
     display: none;
   }
+
   .projects-carousel {
     display: flex;
   }
+
   .nav-links {
     display: none !important;
   }
@@ -267,6 +271,7 @@
   .aura-orb {
     animation: none;
   }
+
   .glass-card:hover {
     transform: none;
   }

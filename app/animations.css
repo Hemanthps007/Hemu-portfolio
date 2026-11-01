@@ -1,22 +1,53 @@
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 @keyframes gradient {
-  0%, 100% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
+
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
 }
 
 @keyframes orbFloat {
-  0%, 100% { transform: translate(0, 0) scale(1); }
-  33% { transform: translate(30px, -20px) scale(1.05); }
-  66% { transform: translate(-20px, 15px) scale(0.95); }
+
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+
+  33% {
+    transform: translate(30px, -20px) scale(1.05);
+  }
+
+  66% {
+    transform: translate(-20px, 15px) scale(0.95);
+  }
 }
 
 @keyframes pulseGlow {
-  0%, 100% { box-shadow: 0 0 20px var(--aura-glow); }
-  50% { box-shadow: 0 0 40px var(--aura-glow); }
+
+  0%,
+  100% {
+    box-shadow: 0 0 20px var(--aura-glow);
+  }
+
+  50% {
+    box-shadow: 0 0 40px var(--aura-glow);
+  }
 }
 
 .reveal-section {
@@ -63,6 +94,7 @@
     transform: none;
     transition: none;
   }
+
   .snap-container {
     scroll-behavior: auto;
   }
